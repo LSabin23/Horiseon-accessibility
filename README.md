@@ -9,6 +9,9 @@ To put action to the recognition that there are a plethora of users out there wi
 
 ### Technology 2 Used
 
+### Future Updates Roadmap
+* Add a "Skip to Main Content" feature for accessibility
+
 ### Credits
 
 ### License
