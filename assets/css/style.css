@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* HEADER STYLES START */
 header {
     padding: 20px;
@@ -43,15 +52,7 @@ nav ul li {
 }
 /* HEADER STYLES END */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* HERO STYLES START */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* HERO STYLES END */
 
 .float-left {
     float: left;
