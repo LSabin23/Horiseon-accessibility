@@ -8,7 +8,7 @@ _Page Sample Screenshot:_
 ![Horiseon Landing Page Sample](./assets/images/Horiseon-landing-page-sample.png)
 
 ### Access
-*NOTE:* Insert link to deployed page here.
+Access the live Horiseon website [here!](https://lsabin23.github.io/Horiseon-accessibility/)
 
 ### HTML Structuring
 The Horiseon page makes use of section tags to assist screen readers in locating and grouping relevant content. Additionally, every image has a descriptive alt attribute to help Horiseon users envision our goals and how we aim to achieve them. Furthermore, several other specific HTML tags, such as header, footer, nav, etc., are utilized to help screen readers recognize what the most important content is on the page and help our users access it as quickly as possible.
